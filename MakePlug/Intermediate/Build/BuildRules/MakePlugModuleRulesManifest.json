@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\PlugInMake\\MakePlug\\Source\\MakePlug\\MakePlug.Build.cs",
+		"D:\\GitHub\\PlugInMake\\MakePlug\\Source\\MakePlug.Target.cs",
+		"D:\\GitHub\\PlugInMake\\MakePlug\\Source\\MakePlugEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}

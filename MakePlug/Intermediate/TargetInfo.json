@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "MakePlug",
+			"Path": "..\\Source\\MakePlug.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "MakePlugEditor",
+			"Path": "..\\Source\\MakePlugEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

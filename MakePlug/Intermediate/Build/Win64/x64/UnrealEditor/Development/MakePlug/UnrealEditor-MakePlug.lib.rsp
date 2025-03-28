@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MakePlug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\PlugInMake\MakePlug\Intermediate\Build\Win64\x64\MakePlugEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\GitHub\PlugInMake\MakePlug\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakePlug\MakePlug.cpp.obj"
+"D:\GitHub\PlugInMake\MakePlug\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakePlug\PerModuleInline.gen.cpp.obj"
+"D:\GitHub\PlugInMake\MakePlug\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakePlug\Default.rc2.res"
+/OUT:"D:\GitHub\PlugInMake\MakePlug\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakePlug\UnrealEditor-MakePlug.lib"
