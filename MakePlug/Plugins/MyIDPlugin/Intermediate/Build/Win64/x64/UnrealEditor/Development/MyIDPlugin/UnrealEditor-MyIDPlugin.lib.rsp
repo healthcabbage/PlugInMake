@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyIDPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\GitHub\PlugInMake\MakePlug\Intermediate\Build\Win64\x64\MakePlugEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\GitHub\PlugInMake\MakePlug\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPlugin.cpp.obj"
+"D:\GitHub\PlugInMake\MakePlug\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.cpp.obj"
+"D:\GitHub\PlugInMake\MakePlug\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\PerModuleInline.gen.cpp.obj"
+"D:\GitHub\PlugInMake\MakePlug\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPlugin.init.gen.cpp.obj"
+"D:\GitHub\PlugInMake\MakePlug\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\MyIDPluginBPLibrary.gen.cpp.obj"
+"D:\GitHub\PlugInMake\MakePlug\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\Default.rc2.res"
+/OUT:"D:\GitHub\PlugInMake\MakePlug\Plugins\MyIDPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\MyIDPlugin\UnrealEditor-MyIDPlugin.lib"

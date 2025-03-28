@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MakePlugModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a5ecc4ead5009d5607c07710246628496358167")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b654a7d00cdcdfaad95ae7e23b3d7f72b5ff718")]
 [assembly: System.Reflection.AssemblyProductAttribute("MakePlugModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MakePlugModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

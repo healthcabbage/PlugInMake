@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\pluginmake\\makeplug\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\pluginmake\\makeplug\\intermediate\\build\\win64\\x64\\makeplugeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\pluginmake\\makeplug\\plugins\\myidplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\myidplugin\\definitions.myidplugin.h",
+            "d:\\github\\pluginmake\\makeplug\\plugins\\myidplugin\\source\\myidplugin\\public\\myidpluginbplibrary.h",
+            "d:\\github\\pluginmake\\makeplug\\plugins\\myidplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\myidplugin\\uht\\myidpluginbplibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

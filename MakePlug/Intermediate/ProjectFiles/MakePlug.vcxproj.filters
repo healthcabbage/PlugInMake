@@ -11,6 +11,7 @@
     <None Include="..\..\Source\MakePlugEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -25,6 +26,54 @@
     </None>
     <None Include="..\..\Config\DefaultInput.ini">
       <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MyIDPlugin">
+      <UniqueIdentifier>{4D6CF6BA-2D50-3AE2-8BE0-26BB68A2E2C0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MyIDPlugin\Source">
+      <UniqueIdentifier>{41084944-3EBF-3E37-BF47-9749DE34399F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MyIDPlugin\Source\MyIDPlugin">
+      <UniqueIdentifier>{59FD97E2-A987-376F-B489-FD415CACEC2C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MyIDPlugin\Source\MyIDPlugin\MyIDPlugin.Build.cs">
+      <Filter>Plugins\MyIDPlugin\Source\MyIDPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\MyIDPlugin\Source\MyIDPlugin\Private">
+      <UniqueIdentifier>{841A6FD3-777A-3C1E-831B-FB6D7F7F3CE4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MyIDPlugin\Source\MyIDPlugin\Private\MyIDPlugin.cpp">
+      <Filter>Plugins\MyIDPlugin\Source\MyIDPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MyIDPlugin\Source\MyIDPlugin\Private\MyIDPluginBPLibrary.cpp">
+      <Filter>Plugins\MyIDPlugin\Source\MyIDPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\MyIDPlugin\Source\MyIDPlugin\Public">
+      <UniqueIdentifier>{93D5260F-3EB7-3B89-A2C5-6D51C34022CC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MyIDPlugin\Source\MyIDPlugin\Public\MyIDPlugin.h">
+      <Filter>Plugins\MyIDPlugin\Source\MyIDPlugin\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MyIDPlugin\Source\MyIDPlugin\Public\MyIDPluginBPLibrary.h">
+      <Filter>Plugins\MyIDPlugin\Source\MyIDPlugin\Public</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\MyIDPlugin\MyIDPlugin.uplugin">
+      <Filter>Plugins\MyIDPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\MyIDPlugin\Config">
+      <UniqueIdentifier>{5A7E12FF-426C-3185-B500-20BA5B2D699C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MyIDPlugin\Config\FilterPlugin.ini">
+      <Filter>Plugins\MyIDPlugin\Config</Filter>
+    </None>
+    <Filter Include="Plugins\MyIDPlugin\Resources">
+      <UniqueIdentifier>{9AABA50B-8320-3EED-BE65-7520C484B383}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MyIDPlugin\Resources\Icon128.png">
+      <Filter>Plugins\MyIDPlugin\Resources</Filter>
     </None>
     <Filter Include="Source\MakePlug">
       <UniqueIdentifier>{09A5B14B-1FF1-3ADB-9894-D94FB1685673}</UniqueIdentifier>

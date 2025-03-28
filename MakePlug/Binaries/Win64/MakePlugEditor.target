@@ -4816,6 +4816,18 @@
 		{
 			"Path": "$(ProjectDir)/Binaries/Win64/UnrealEditor.modules",
 			"Type": "RequiredResource"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/MyIDPlugin/Binaries/Win64/UnrealEditor-MyIDPlugin.dll",
+			"Type": "DynamicLibrary"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/MyIDPlugin/Binaries/Win64/UnrealEditor-MyIDPlugin.pdb",
+			"Type": "SymbolFile"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/MyIDPlugin/Binaries/Win64/UnrealEditor.modules",
+			"Type": "RequiredResource"
 		}
 	],
 	"RuntimeDependencies": [
@@ -30546,6 +30558,10 @@
 		{
 			"Path": "$(ProjectDir)/MakePlug.uproject",
 			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Plugins/MyIDPlugin/MyIDPlugin.uplugin",
+			"Type": "UFS"
 		}
 	],
 	"BuildPlugins": [
@@ -30672,6 +30688,7 @@
 		"MobilePatchingUtils",
 		"ModelingToolsEditorMode",
 		"MsQuic",
+		"MyIDPlugin",
 		"N10XSourceCodeAccess",
 		"NFORDenoise",
 		"NNEDenoiser",

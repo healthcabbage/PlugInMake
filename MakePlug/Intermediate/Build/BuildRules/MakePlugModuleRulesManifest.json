@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"D:\\GitHub\\PlugInMake\\MakePlug\\Source\\MakePlug\\MakePlug.Build.cs",
+		"D:\\GitHub\\PlugInMake\\MakePlug\\Plugins\\MyIDPlugin\\Source\\MyIDPlugin\\MyIDPlugin.Build.cs",
 		"D:\\GitHub\\PlugInMake\\MakePlug\\Source\\MakePlug.Target.cs",
 		"D:\\GitHub\\PlugInMake\\MakePlug\\Source\\MakePlugEditor.Target.cs"
 	],
